@@ -21,7 +21,7 @@ public class Ejercicio6 {
 		System.out.println((int)horas+"horas");
 		System.out.println((int) minutos+" minutos");
 		System.out.println( segundos+" segundos");
-
+		sc.close();
 	}
 
 }

@@ -23,7 +23,7 @@ public class Ejercicio7 {
 		metros= metros*100;
 		// ahora vamos a sumar las tres cantidades y las mostramos al cliente
 		op= milimetros+centimetros+metros;
-		System.out.print("Las tres distancias sumadas dan: "+(int)op+(" cm"));
+		System.out.print("Las tres distancias sumadas dan: "+op+(" cm"));
 		sc.close();
 		
 	}
